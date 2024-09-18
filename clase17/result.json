@@ -1,0 +1,4 @@
+{
+    "size":"medium",
+    "quantityByName":[{"_id":"Cheese","totalQuantity":50},{"_id":"Pepperoni","totalQuantity":20},{"_id":"Vegan","totalQuantity":10}]
+}

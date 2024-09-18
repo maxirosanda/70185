@@ -1,8 +1,9 @@
 <h1>Productos</h1>
+{{log result}}
 <div class="container-products">
     
-    {{#if products.length}}
-    {{#each products}}
+    {{#if result.payload.length}}
+    {{#each result.payload}}
         <div class="card">
             <h3 class="card-title">{{title}}</h3>
             <img class="card-img" src="/static/img/{{img}}"/>
@@ -11,8 +12,7 @@
                 <span class="card-stock">Stock: {{stock}}</span>
             </div>
             <div class="container-btn"> 
-                <button id="delete-{{id}}" class="btn btn-delete">Borrar</button>
-                <button class="btn btn-update">Actualizar</button>
+                <button id="cart-{{id}}" class="btn btn-cart">Carrito</button>
             </div>
         </div>
 

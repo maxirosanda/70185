@@ -1,0 +1,15 @@
+{{#if students.docs.length}}
+    {{#each students.docs}}
+        <div>
+            <h3>{{first_name}} {{last_name}}</h3>
+        </div>
+    {{/each}}
+{{else}}
+<p>No hay estudiantes</p>
+{{/if}}
+
+<button id="prev-button" data-page="{{students.prevPage}}" >Anteriores</button>
+<span>{{students.page}} de {{students.totalPages}}</span>
+<button id="next-button" data-page="{{students.nextPage}}">Suguientes</button>
+
+<script src="/static/main.js"></script>

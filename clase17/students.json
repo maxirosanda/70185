@@ -1,0 +1,612 @@
+[
+    {
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "john.doe1@example.com",
+      "gender": "Male",
+      "grade": 8,
+      "group": "A"
+    },
+    {
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "email": "jane.smith1@example.com",
+      "gender": "Female",
+      "grade": 9,
+      "group": "B"
+    },
+    {
+      "first_name": "Alice",
+      "last_name": "Johnson",
+      "email": "alice.johnson1@example.com",
+      "gender": "Female",
+      "grade": 7,
+      "group": "A"
+    },
+    {
+      "first_name": "Bob",
+      "last_name": "Brown",
+      "email": "bob.brown1@example.com",
+      "gender": "Male",
+      "grade": 6,
+      "group": "C"
+    },
+    {
+      "first_name": "Charlie",
+      "last_name": "Davis",
+      "email": "charlie.davis1@example.com",
+      "gender": "Male",
+      "grade": 10,
+      "group": "B"
+    },
+    {
+      "first_name": "David",
+      "last_name": "Wilson",
+      "email": "david.wilson1@example.com",
+      "gender": "Male",
+      "grade": 5,
+      "group": "A"
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Clark",
+      "email": "emily.clark1@example.com",
+      "gender": "Female",
+      "grade": 9,
+      "group": "C"
+    },
+    {
+      "first_name": "Frank",
+      "last_name": "Lewis",
+      "email": "frank.lewis1@example.com",
+      "gender": "Male",
+      "grade": 4,
+      "group": "B"
+    },
+    {
+      "first_name": "Grace",
+      "last_name": "Walker",
+      "email": "grace.walker1@example.com",
+      "gender": "Female",
+      "grade": 8,
+      "group": "A"
+    },
+    {
+      "first_name": "Hank",
+      "last_name": "Young",
+      "email": "hank.young1@example.com",
+      "gender": "Male",
+      "grade": 7,
+      "group": "C"
+    },
+    {
+      "first_name": "Ivy",
+      "last_name": "Hall",
+      "email": "ivy.hall1@example.com",
+      "gender": "Female",
+      "grade": 9,
+      "group": "B"
+    },
+    {
+      "first_name": "Jack",
+      "last_name": "Allen",
+      "email": "jack.allen1@example.com",
+      "gender": "Male",
+      "grade": 10,
+      "group": "A"
+    },
+    {
+      "first_name": "Kate",
+      "last_name": "Scott",
+      "email": "kate.scott1@example.com",
+      "gender": "Female",
+      "grade": 5,
+      "group": "C"
+    },
+    {
+      "first_name": "Liam",
+      "last_name": "King",
+      "email": "liam.king1@example.com",
+      "gender": "Male",
+      "grade": 6,
+      "group": "B"
+    },
+    {
+      "first_name": "Mia",
+      "last_name": "Wright",
+      "email": "mia.wright1@example.com",
+      "gender": "Female",
+      "grade": 7,
+      "group": "A"
+    },
+    {
+      "first_name": "Noah",
+      "last_name": "Green",
+      "email": "noah.green1@example.com",
+      "gender": "Male",
+      "grade": 8,
+      "group": "C"
+    },
+    {
+      "first_name": "Olivia",
+      "last_name": "Adams",
+      "email": "olivia.adams1@example.com",
+      "gender": "Female",
+      "grade": 9,
+      "group": "B"
+    },
+    {
+      "first_name": "Paul",
+      "last_name": "White",
+      "email": "paul.white1@example.com",
+      "gender": "Male",
+      "grade": 6,
+      "group": "A"
+    },
+    {
+      "first_name": "Quinn",
+      "last_name": "Harris",
+      "email": "quinn.harris1@example.com",
+      "gender": "Female",
+      "grade": 4,
+      "group": "C"
+    },
+    {
+      "first_name": "Ruby",
+      "last_name": "Thompson",
+      "email": "ruby.thompson1@example.com",
+      "gender": "Female",
+      "grade": 5,
+      "group": "B"
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "Martinez",
+      "email": "sam.martinez1@example.com",
+      "gender": "Male",
+      "grade": 7,
+      "group": "A"
+    },
+    {
+      "first_name": "Tina",
+      "last_name": "Garcia",
+      "email": "tina.garcia1@example.com",
+      "gender": "Female",
+      "grade": 9,
+      "group": "C"
+    },
+    {
+      "first_name": "Uma",
+      "last_name": "Rodriguez",
+      "email": "uma.rodriguez1@example.com",
+      "gender": "Female",
+      "grade": 10,
+      "group": "B"
+    },
+    {
+      "first_name": "Vince",
+      "last_name": "Perez",
+      "email": "vince.perez1@example.com",
+      "gender": "Male",
+      "grade": 5,
+      "group": "A"
+    },
+    {
+      "first_name": "Wendy",
+      "last_name": "Moore",
+      "email": "wendy.moore1@example.com",
+      "gender": "Female",
+      "grade": 6,
+      "group": "C"
+    },
+    {
+      "first_name": "Xander",
+      "last_name": "Taylor",
+      "email": "xander.taylor1@example.com",
+      "gender": "Male",
+      "grade": 8,
+      "group": "B"
+    },
+    {
+      "first_name": "Yara",
+      "last_name": "Anderson",
+      "email": "yara.anderson1@example.com",
+      "gender": "Female",
+      "grade": 9,
+      "group": "A"
+    },
+    {
+      "first_name": "Zack",
+      "last_name": "Thomas",
+      "email": "zack.thomas1@example.com",
+      "gender": "Male",
+      "grade": 7,
+      "group": "C"
+    },
+    {
+      "first_name": "Amy",
+      "last_name": "Jackson",
+      "email": "amy.jackson1@example.com",
+      "gender": "Female",
+      "grade": 10,
+      "group": "B"
+    },
+    {
+      "first_name": "Brian",
+      "last_name": "Lee",
+      "email": "brian.lee1@example.com",
+      "gender": "Male",
+      "grade": 4,
+      "group": "A"
+    },
+    {
+      "first_name": "Chloe",
+      "last_name": "Lopez",
+      "email": "chloe.lopez1@example.com",
+      "gender": "Female",
+      "grade": 6,
+      "group": "C"
+    },
+    {
+      "first_name": "Dylan",
+      "last_name": "Hill",
+      "email": "dylan.hill1@example.com",
+      "gender": "Male",
+      "grade": 8,
+      "group": "B"
+    },
+    {
+      "first_name": "Eva",
+      "last_name": "Martin",
+      "email": "eva.martin1@example.com",
+      "gender": "Female",
+      "grade": 7,
+      "group": "A"
+    },
+    {
+      "first_name": "Finn",
+      "last_name": "Garcia",
+      "email": "finn.garcia1@example.com",
+      "gender": "Male",
+      "grade": 9,
+      "group": "C"
+    },
+    {
+      "first_name": "Gina",
+      "last_name": "Martinez",
+      "email": "gina.martinez1@example.com",
+      "gender": "Female",
+      "grade": 5,
+      "group": "B"
+    },
+    {
+      "first_name": "Harry",
+      "last_name": "Brown",
+      "email": "harry.brown1@example.com",
+      "gender": "Male",
+      "grade": 10,
+      "group": "A"
+    },
+    {
+      "first_name": "Iris",
+      "last_name": "Smith",
+      "email": "iris.smith1@example.com",
+      "gender": "Female",
+      "grade": 8,
+      "group": "C"
+    },
+    {
+      "first_name": "Jack",
+      "last_name": "Williams",
+      "email": "jack.williams1@example.com",
+      "gender": "Male",
+      "grade": 9,
+      "group": "B"
+    },
+    {
+          "first_name": "Aaron",
+          "last_name": "Dixon",
+          "email": "aaron.dixon2@example.com",
+          "gender": "Male",
+          "grade": 7,
+          "group": "A"
+    },
+        {
+          "first_name": "Bella",
+          "last_name": "Carter",
+          "email": "bella.carter2@example.com",
+          "gender": "Female",
+          "grade": 8,
+          "group": "B"
+        },
+        {
+          "first_name": "Caleb",
+          "last_name": "Collins",
+          "email": "caleb.collins2@example.com",
+          "gender": "Male",
+          "grade": 6,
+          "group": "C"
+        },
+        {
+          "first_name": "Daisy",
+          "last_name": "Harris",
+          "email": "daisy.harris2@example.com",
+          "gender": "Female",
+          "grade": 9,
+          "group": "A"
+        },
+        {
+          "first_name": "Ethan",
+          "last_name": "Griffin",
+          "email": "ethan.griffin2@example.com",
+          "gender": "Male",
+          "grade": 5,
+          "group": "B"
+        },
+        {
+          "first_name": "Fiona",
+          "last_name": "Reed",
+          "email": "fiona.reed2@example.com",
+          "gender": "Female",
+          "grade": 7,
+          "group": "C"
+        },
+        {
+          "first_name": "George",
+          "last_name": "Ross",
+          "email": "george.ross2@example.com",
+          "gender": "Male",
+          "grade": 8,
+          "group": "A"
+        },
+        {
+          "first_name": "Holly",
+          "last_name": "Bell",
+          "email": "holly.bell2@example.com",
+          "gender": "Female",
+          "grade": 6,
+          "group": "B"
+        },
+        {
+          "first_name": "Isaac",
+          "last_name": "Sanders",
+          "email": "isaac.sanders2@example.com",
+          "gender": "Male",
+          "grade": 10,
+          "group": "C"
+        },
+        {
+          "first_name": "Jenna",
+          "last_name": "Morris",
+          "email": "jenna.morris2@example.com",
+          "gender": "Female",
+          "grade": 5,
+          "group": "A"
+        },
+        {
+          "first_name": "Kyle",
+          "last_name": "Foster",
+          "email": "kyle.foster2@example.com",
+          "gender": "Male",
+          "grade": 9,
+          "group": "B"
+        },
+        {
+          "first_name": "Lara",
+          "last_name": "Murphy",
+          "email": "lara.murphy2@example.com",
+          "gender": "Female",
+          "grade": 8,
+          "group": "C"
+        },
+        {
+          "first_name": "Mason",
+          "last_name": "Gray",
+          "email": "mason.gray2@example.com",
+          "gender": "Male",
+          "grade": 6,
+          "group": "A"
+        },
+        {
+          "first_name": "Nina",
+          "last_name": "Rogers",
+          "email": "nina.rogers2@example.com",
+          "gender": "Female",
+          "grade": 7,
+          "group": "B"
+        },
+        {
+          "first_name": "Oscar",
+          "last_name": "Price",
+          "email": "oscar.price2@example.com",
+          "gender": "Male",
+          "grade": 5,
+          "group": "C"
+        },
+        {
+          "first_name": "Paula",
+          "last_name": "Richardson",
+          "email": "paula.richardson2@example.com",
+          "gender": "Female",
+          "grade": 9,
+          "group": "A"
+        },
+        {
+          "first_name": "Quincy",
+          "last_name": "Watson",
+          "email": "quincy.watson2@example.com",
+          "gender": "Male",
+          "grade": 8,
+          "group": "B"
+        },
+        {
+          "first_name": "Rita",
+          "last_name": "Brooks",
+          "email": "rita.brooks2@example.com",
+          "gender": "Female",
+          "grade": 7,
+          "group": "C"
+        },
+        {
+          "first_name": "Simon",
+          "last_name": "Kelly",
+          "email": "simon.kelly2@example.com",
+          "gender": "Male",
+          "grade": 6,
+          "group": "A"
+        },
+        {
+          "first_name": "Tara",
+          "last_name": "Warren",
+          "email": "tara.warren2@example.com",
+          "gender": "Female",
+          "grade": 10,
+          "group": "B"
+        },
+        {
+          "first_name": "Ulysses",
+          "last_name": "Howard",
+          "email": "ulysses.howard2@example.com",
+          "gender": "Male",
+          "grade": 5,
+          "group": "C"
+        },
+        {
+          "first_name": "Vera",
+          "last_name": "Coleman",
+          "email": "vera.coleman2@example.com",
+          "gender": "Female",
+          "grade": 9,
+          "group": "A"
+        },
+        {
+          "first_name": "Wesley",
+          "last_name": "Jenkins",
+          "email": "wesley.jenkins2@example.com",
+          "gender": "Male",
+          "grade": 8,
+          "group": "B"
+        },
+        {
+          "first_name": "Xenia",
+          "last_name": "Bennett",
+          "email": "xenia.bennett2@example.com",
+          "gender": "Female",
+          "grade": 7,
+          "group": "C"
+        },
+        {
+          "first_name": "Yusuf",
+          "last_name": "Long",
+          "email": "yusuf.long2@example.com",
+          "gender": "Male",
+          "grade": 6,
+          "group": "A"
+        },
+        {
+          "first_name": "Zoe",
+          "last_name": "Patterson",
+          "email": "zoe.patterson2@example.com",
+          "gender": "Female",
+          "grade": 10,
+          "group": "B"
+        },
+        {
+          "first_name": "Aiden",
+          "last_name": "Bailey",
+          "email": "aiden.bailey2@example.com",
+          "gender": "Male",
+          "grade": 5,
+          "group": "C"
+        },
+        {
+          "first_name": "Bethany",
+          "last_name": "Hughes",
+          "email": "bethany.hughes2@example.com",
+          "gender": "Female",
+          "grade": 9,
+          "group": "A"
+        },
+        {
+          "first_name": "Connor",
+          "last_name": "Ross",
+          "email": "connor.ross2@example.com",
+          "gender": "Male",
+          "grade": 8,
+          "group": "B"
+        },
+        {
+          "first_name": "Diana",
+          "last_name": "Griffith",
+          "email": "diana.griffith2@example.com",
+          "gender": "Female",
+          "grade": 7,
+          "group": "C"
+        },
+        {
+          "first_name": "Elliott",
+          "last_name": "Henderson",
+          "email": "elliott.henderson2@example.com",
+          "gender": "Male",
+          "grade": 6,
+          "group": "A"
+        },
+        {
+          "first_name": "Felicity",
+          "last_name": "Wallace",
+          "email": "felicity.wallace2@example.com",
+          "gender": "Female",
+          "grade": 10,
+          "group": "B"
+        },
+        {
+          "first_name": "Gregory",
+          "last_name": "Bryant",
+          "email": "gregory.bryant2@example.com",
+          "gender": "Male",
+          "grade": 5,
+          "group": "C"
+        },
+        {
+          "first_name": "Hannah",
+          "last_name": "George",
+          "email": "hannah.george2@example.com",
+          "gender": "Female",
+          "grade": 9,
+          "group": "A"
+        },
+        {
+          "first_name": "Ian",
+          "last_name": "Wells",
+          "email": "ian.wells2@example.com",
+          "gender": "Male",
+          "grade": 8,
+          "group": "B"
+        },
+        {
+          "first_name": "Julia",
+          "last_name": "Murray",
+          "email": "julia.murray2@example.com",
+          "gender": "Female",
+          "grade": 7,
+          "group": "C"
+        },
+        {
+          "first_name": "Kurt",
+          "last_name": "Perry",
+          "email": "kurt.perry2@example.com",
+          "gender": "Male",
+          "grade": 6,
+          "group": "A"
+        },
+        {
+          "first_name": "Lydia",
+          "last_name": "Powell",
+          "email": "lydia.powell2@example.com",
+          "gender": "Female",
+          "grade": 10,
+          "group": "B"
+        }
+]
+      
+  

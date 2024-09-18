@@ -5,8 +5,18 @@ import { uploader } from "../utils/multer.js"
 const router = Router()
 
 router.get('/',async (req,res)=>{
-    const products = await Product.find({})
-    res.json(products)
+    const { page = 1, limit = 10} = req.query
+    const products = await Product.paginate({},{page,limit})
+    const result = {
+        payload:products.docs,
+        nextPage:products.nextPage,
+        prevPage:products.prevPage,
+        hasNextPage:products.hasNextPage,
+        hasPrevPage:products.hasNextPage,
+        nextLink: `/api/products/${products.nextPage}`,
+        prevLink: `/api/products/${products.prevLink}`
+    }
+    res.json(result)
 })
 
 router.post('/',uploader.single('file'),async (req,res)=>{
